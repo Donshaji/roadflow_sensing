@@ -1,4 +1,3 @@
-Got it, let's break down the code and its components by file and function:
 
 ### `main.dart`:
 
